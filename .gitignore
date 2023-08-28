@@ -10,6 +10,7 @@ jspm_packages/
 # Optional npm cache directory
 .npm
 css/styles.css.map
+
 # VCS project folder
 .vscode
 
